@@ -1,16 +1,3 @@
-# odoogpt
-
-
-![](odoogpt/static/description/cover/odoogpt.png)
-
-Make OdooBot finally useful
-
-<a href="https://youtu.be/HBZ-pHthh4g" target="blank">
-    <img src="odoogpt/static/description/img/youtube-watch.png" />
-</a>
-
-https://youtu.be/HBZ-pHthh4g
-
 
 ## Requirements
 
@@ -62,21 +49,6 @@ pip install openai
 
 Icons generated with https://spilymp.github.io/ibo
 
-- Odoo Version: Odoo 15
+- Odoo Version: Odoo 16
 - Icon Set: Font Awesome 5
 - Icon Background Color: #701068
-
-
-
-# Sponsors ❤
-
-Thanks to this awesome people, this project can be free for you to enjoy!
-
-<table>
-    <tr>
-        <td align="middle">
-            <img src="https://github.com/james-mtsoln.png?size=60" />
-            <p><a href="https://github.com/james-mtsoln" target="_blank">james-mtsoln</a></p>
-        </td>
-    </tr>
-</table>
